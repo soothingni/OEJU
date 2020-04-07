@@ -1,0 +1,142 @@
+,Platform,Year,Volume,Author,Email,URL
+0,BDJ,2019,7,Frederik Van de Perre,frederik.vandeperre@uantwerpen.be,https://bdj.pensoft.net/article/46948/
+1,BDJ,2019,7,Bang Van Tran,vn.vanbang@gmail.com,https://bdj.pensoft.net/article/39233/
+2,BDJ,2019,7,Reinaldo Imbrozio Barbosa,reinaldo@inpa.gov.br,https://bdj.pensoft.net/article/47025/
+3,BDJ,2019,7,Rui B. Elias,rui.mp.elias@uac.pt,https://bdj.pensoft.net/article/38687/
+4,BDJ,2019,7,Stefano Mammola,stefano.mammola@helsinki.fi,https://bdj.pensoft.net/article/38492/
+5,BDJ,2019,7,Pedro Cardoso,pedro.cardoso@helsinki.fi,https://bdj.pensoft.net/article/38492/
+6,BDJ,2019,7,Marco Isaia,marco.isaia@unito.it,https://bdj.pensoft.net/article/38492/
+7,BDJ,2019,7,Ulises Rodrigo Magdalena,ulisesrodrigo@id.uff.br,https://bdj.pensoft.net/article/38248/
+8,BDJ,2019,7,Juliane Vogt,juliane.vogt@tum.de,https://bdj.pensoft.net/article/36387/
+9,BDJ,2019,7,Jérôme Murienne,jerome.murienne@univ-tlse3.fr,https://bdj.pensoft.net/article/37518/
+10,BDJ,2019,7,Alice Retter,alice.retter@univie.ac.at,https://bdj.pensoft.net/article/35332/
+11,BDJ,2019,7,Luz Piedad Romero-Duque,luz.romero@udca.edu.co,https://bdj.pensoft.net/article/36191/
+12,BDJ,2019,7,Julian Walcott,walcott.julian@gmail.com,https://bdj.pensoft.net/article/38219/
+13,BDJ,2019,7,Gunnhild Marthinsen,gunnhilm@nhm.uio.no,https://bdj.pensoft.net/article/36252/
+14,BDJ,2019,7,Nina Filippova,filippova.courlee.nina@gmail.com,https://bdj.pensoft.net/article/35674/
+15,BDJ,2019,7,Rosalina Gabriel,rgabriel@uac.pt,https://bdj.pensoft.net/article/34621/
+16,BDJ,2019,7,Florencia Grattarola,fgrattarola@lincoln.ac.uk,https://bdj.pensoft.net/article/36226/
+17,BDJ,2019,7,Paulo Alexandre Vieira Borges,pborges@uac.pt,https://bdj.pensoft.net/article/34327/
+18,BDJ,2019,7,Luisa F. Dueñas,luisadue@gmail.com,https://bdj.pensoft.net/article/33091/
+19,BDJ,2019,7,Marcos Paulo Alves de Sousa,msousa@museu-goeldi.br,https://bdj.pensoft.net/article/34013/
+20,BDJ,2019,7,Jagoba Malumbres-Olarte,jagoba.malumbres.olarte@gmail.com,https://bdj.pensoft.net/article/32625/
+21,BDJ,2019,7,Dirk Maes,dirk.maes@inbo.be,https://bdj.pensoft.net/article/34089/
+22,BDJ,2019,7,Dimitri Brosens,dimitri.brosens@inbo.be,https://bdj.pensoft.net/article/34089/
+23,BDJ,2019,7,Pedro Cardoso,pedro.cardoso@helsinki.fi,https://bdj.pensoft.net/article/33264/
+24,BDJ,2019,7,Tatyana Shubina,tshubina@ib.komisc.ru,https://bdj.pensoft.net/article/32307/
+25,BDJ,2019,7,Alberto Scotti,alberto.scotti@student.uibk.ac.at,https://bdj.pensoft.net/article/33576/
+26,BDJ,2019,7,Valeria Trivellone,valeria.trivellone@gmail.com,https://bdj.pensoft.net/article/32910/
+27,BDJ,2019,7,lo Sendino,c.sendino-lara@nhm.ac.uk,https://bdj.pensoft.net/article/33504/
+28,BDJ,2019,7,Do Van Tu,dovantu.iebr@gmail.com,https://bdj.pensoft.net/article/32930/
+29,BDJ,2019,7,Monique Simier,monique.simier@ird.fr,https://bdj.pensoft.net/article/31374/
+30,BDJ,2019,7,Mathias Dillen,mathias.dillen@plantentuinmeise.be,https://bdj.pensoft.net/article/31817/
+31,BDJ,2019,7,Hanieh Saeedi,hanieh.saeedi@gmail.com,https://bdj.pensoft.net/article/31375/
+32,BDJ,2019,7,Giacomo Assandri,giacomo.assandri@gmail.com,https://bdj.pensoft.net/article/32391/
+33,BDJ,2019,7,Yuichi Kano,kano@species.jp,https://bdj.pensoft.net/article/32114/
+34,BDJ,2018,6,Dylan Craven,dylan.craven@aya.yale.edu,https://bdj.pensoft.net/article/28406/
+35,BDJ,2018,6,Anna K Monfils,monfi1ak@cmich.edu,https://bdj.pensoft.net/article/29081/
+36,BDJ,2018,6,Paulo Alexandre Vieira Borges,pborges@uac.pt,https://bdj.pensoft.net/article/27194/
+37,BDJ,2018,6,Rei Itsukushima,itsukushima@civil.kyushu-u.ac.jp,https://bdj.pensoft.net/article/26101/
+38,BDJ,2018,6,Yuichi Kano,kano@species.jp,https://bdj.pensoft.net/article/26265/
+39,BDJ,2018,6,Kevin R. Burgio,kevin.burgio@uconn.edu,https://bdj.pensoft.net/article/25280/
+40,BDJ,2018,6,Itanna O. Fernandes,itanna.fernandes@gmail.com,https://bdj.pensoft.net/article/24375/
+41,BDJ,2018,6,Jorge L.P. de Souza,souza.jorge@gmail.com,https://bdj.pensoft.net/article/24375/
+42,BDJ,2018,6,João M. Lanna,joaomlanna@gmail.com,https://bdj.pensoft.net/article/22757/
+43,BDJ,2018,6,Rafaela C. Forzza,rafaela@jbrj.gov.br,https://bdj.pensoft.net/article/22757/
+44,BDJ,2018,6,los E. Paz-Ríos,cepaz@ecosur.edu.mx,https://bdj.pensoft.net/article/22622/
+45,BDJ,2017,5,Hongfeng Wang,wanghongfeng90@163.com,https://bdj.pensoft.net/article/22167/
+46,BDJ,2017,5,Aline Ferreira Quadros,quadros.af@gmail.com,https://bdj.pensoft.net/article/22089/
+47,BDJ,2017,5,Alexander Ordynets,a.ordynets@uni-kassel.de,https://bdj.pensoft.net/article/22426/
+48,BDJ,2017,5,Pedro Cardoso,pedro.cardoso@helsinki.fi,https://bdj.pensoft.net/article/21010/
+49,BDJ,2017,5,Anders Bryn,anders.bryn@nibio.no,https://bdj.pensoft.net/article/22093/
+50,BDJ,2017,5,John D Lloyd,5355693@gmail.com,https://bdj.pensoft.net/article/20745/
+51,BDJ,2017,5,Frédéric Marchand,frederic.marchand@inra.fr,https://bdj.pensoft.net/article/15125/
+52,BDJ,2017,5,Takeshi Osawa,arosawa@gmail.com,https://bdj.pensoft.net/article/21271/
+53,BDJ,2017,5,Veljo Runnel,veljo.runnel@ut.ee,https://bdj.pensoft.net/article/20200/
+54,BDJ,2017,5,Rodrigo Leonardo Costa de Oliveira,rodrigo@uerr.edu.br,https://bdj.pensoft.net/article/20044/
+55,BDJ,2017,5,Robert Evan Mesibov,robert.mesibov@gmail.com,https://bdj.pensoft.net/article/15919/
+56,BDJ,2017,5,Kees van Achterberg,c.vanachterberg@xs4all.nl,https://bdj.pensoft.net/article/14650/
+57,BDJ,2017,5,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/14650/
+58,BDJ,2017,5,Reinaldo Imbrozio Barbosa,reinaldo@inpa.gov.br,https://bdj.pensoft.net/article/13829/
+59,BDJ,2017,5,Takeshi Osawa,arosawa@gmail.com,https://bdj.pensoft.net/article/14789/
+60,BDJ,2017,5,Écio Souza Diniz,eciodiniz@gmail.com,https://bdj.pensoft.net/article/13564/
+61,BDJ,2017,5,lara Baringo Fonseca,baringo.fonseca.clara@gmail.com,https://bdj.pensoft.net/article/12012/
+62,BDJ,2017,5,Vinicius S. Ferreira,vinicius.sfb@gmail.com,https://bdj.pensoft.net/article/12252/
+63,BDJ,2017,5,J Mcowen,chris.mcowen@unep-wcmc.org,https://bdj.pensoft.net/article/11764/
+64,BDJ,2017,5,Hiroki Itô,abies.firma@gmail.com,https://bdj.pensoft.net/article/11732/
+65,BDJ,2017,5,Samantha Page-Nicholson,samanthap@ewt.org.za,https://bdj.pensoft.net/article/11323/
+66,BDJ,2017,5,Anne S. Philippe,annephilippe9@gmail.com,https://bdj.pensoft.net/article/10288/
+67,BDJ,2017,5,Bernardo F Santos,bernardofsantos@gmail.com,https://bdj.pensoft.net/article/11337/
+68,BDJ,2016,4,Sarah Faulwetter,sarahfaulwetter@gmail.com,https://bdj.pensoft.net/article/11054/
+69,BDJ,2016,4,laudia Tocco,claudia.tocco@me.com,https://bdj.pensoft.net/article/10059/
+70,BDJ,2016,4,Katsutoshi Watanabe,watanak@terra.zool.kyoto-u.ac.jp,https://bdj.pensoft.net/article/10539/
+71,BDJ,2016,4,Anastasios Legakis,alegakis@biol.uoa.gr,https://bdj.pensoft.net/article/10598/
+72,BDJ,2016,4,Athanasios Evagelopoulos,tevagelo@marine.aegean.gr,https://bdj.pensoft.net/article/9541/
+73,BDJ,2016,4,Dimitris Poursanidis,dpoursanidis@gmail.com,https://bdj.pensoft.net/article/7516/
+74,BDJ,2016,4,Pavloudi,cpavloud@hcmr.gr,https://bdj.pensoft.net/article/8210/
+75,BDJ,2016,4,Katerina Vasileiadou,kvasileiadou@hcmr.gr,https://bdj.pensoft.net/article/8233/
+76,BDJ,2016,4,Irini Tsikopoulou,fellow_irene@yahoo.gr,https://bdj.pensoft.net/article/10071/
+77,BDJ,2016,4,Stamatina Nikolopoulou,snikolo@hcmr.gr,https://bdj.pensoft.net/article/10071/
+78,BDJ,2016,4,Oliver L. Pescott,olipes@ceh.ac.uk,https://bdj.pensoft.net/article/10658/
+79,BDJ,2016,4,wa Maina,ciira.maina@dkut.ac.ke,https://bdj.pensoft.net/article/9906/
+80,BDJ,2016,4,Kerryn Morrison,kerrynm@ewt.org.za,https://bdj.pensoft.net/article/9794/
+81,BDJ,2016,4,Lizanne Roxburgh,lizanner@ewt.org.za,https://bdj.pensoft.net/article/9794/
+82,BDJ,2016,4,Gordon Paterson,g.paterson@nhm.ac.uk,https://bdj.pensoft.net/article/9559/
+83,BDJ,2016,4,Gordon Paterson,g.paterson@nhm.ac.uk,https://bdj.pensoft.net/article/9559/
+84,BDJ,2016,4,Loïc N. Michel,loicnmichel@gmail.com,https://bdj.pensoft.net/article/10109/
+85,BDJ,2016,4,Nicolas Sturaro,nicolas.sturaro@ulg.ac.be,https://bdj.pensoft.net/article/10109/
+86,BDJ,2016,4,Michael Joseph Skvarla,mskvarla36@gmail.com,https://bdj.pensoft.net/article/9977/
+87,BDJ,2016,4,Markus Gastauer,markus.gastauer@ufv.br,https://bdj.pensoft.net/article/8503/
+88,BDJ,2016,4,Alejandra Martínez-Melo,a.mtz.melo@gmail.com,https://bdj.pensoft.net/article/7729/
+89,BDJ,2016,4,Klaus-Gerhard Heller,heller.volleth@t-online.de,https://bdj.pensoft.net/article/8905/
+90,BDJ,2016,4,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/8905/
+91,BDJ,2016,4,Michael Joseph Skvarla,mskvarla36@gmail.com,https://bdj.pensoft.net/article/7607/
+92,BDJ,2016,4,Michael Joseph Skvarla,mskvarla36@gmail.com,https://bdj.pensoft.net/article/8830/
+93,BDJ,2016,4,Spyros Gkelis,sgkelis@bio.auth.gr,https://bdj.pensoft.net/article/7965/
+94,BDJ,2016,4,David Y. P. Tng,davetngcom@gmail.com,https://bdj.pensoft.net/article/7599/
+95,BDJ,2016,4,Ed Baker,edwbaker@gmail.com,https://bdj.pensoft.net/article/7441/
+96,BDJ,2015,3,Jonathan B. Koch,jonathan.b.koch@gmail.com,https://bdj.pensoft.net/article/6833/
+97,BDJ,2015,3,Quentin J. Groom,qgroom@botanicalkeys.co.uk,https://bdj.pensoft.net/article/7318/
+98,BDJ,2015,3,Ed Baker,edwbaker@gmail.com,https://bdj.pensoft.net/article/7442/
+99,BDJ,2015,3,Adriano B. Kury,adrianok@gmail.com,https://bdj.pensoft.net/article/6482/
+100,BDJ,2015,3,Michael Joseph Skvarla,mskvarla36@gmail.com,https://bdj.pensoft.net/article/6832/
+101,BDJ,2015,3,Jean-Pierre Rossi,jean-pierre.rossi@supagro.inra.fr,https://bdj.pensoft.net/article/6515/
+102,BDJ,2015,3,Emilia Rota,rota@unisi.it,https://bdj.pensoft.net/article/5737/
+103,BDJ,2015,3,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/5737/
+104,BDJ,2015,3,Ed Baker,edwbaker@gmail.com,https://bdj.pensoft.net/article/5792/
+105,BDJ,2015,3,Maria Balsamo,maria.balsamo@uniurb.it,https://bdj.pensoft.net/article/5800/
+106,BDJ,2015,3,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/5800/
+107,BDJ,2015,3,Markus Gastauer,markus.gastauer@ufv.br,https://bdj.pensoft.net/article/5425/
+108,BDJ,2015,3,Rafael Araujo,rafael@mncn.csic.es,https://bdj.pensoft.net/article/5211/
+109,BDJ,2015,3,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/5211/
+110,BDJ,2015,3,M. Teresa Vizoso,mariate@ugr.es,https://bdj.pensoft.net/article/5204/
+111,BDJ,2015,3,Hartmut H. Hilger,hartmut.hilger@fu-berlin.de,https://bdj.pensoft.net/article/4831/
+112,BDJ,2015,3,Werner Greuter,w.greuter@bgbm.org,https://bdj.pensoft.net/article/4831/
+113,BDJ,2015,3,Ulrike Aspöck,ulrike.aspoeck@nhm-wien.ac.at,https://bdj.pensoft.net/article/4830/
+114,BDJ,2015,3,Horst Aspöck,horst.aspoeck@meduniwien.ac.at,https://bdj.pensoft.net/article/4830/
+115,BDJ,2015,3,Agostino Letardi,agostino.letardi@enea.it,https://bdj.pensoft.net/article/4830/
+116,BDJ,2015,3,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/4830/
+117,BDJ,2015,3,Paolo Audisio,paolo.audisio@uniroma1.it,https://bdj.pensoft.net/article/4750/
+118,BDJ,2015,3,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/4750/
+119,BDJ,2015,3,Mircea-Dan Mitroiu,mircea.mitroiu@uaic.ro,https://bdj.pensoft.net/article/4186/
+120,BDJ,2015,3,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/4186/
+121,BDJ,2015,3,Rodolphe Rougerie,rodolphe.rougerie@mnhn.fr,https://bdj.pensoft.net/article/4078/
+122,BDJ,2015,3,Markus Gastauer,markus.gastauer@ufv.br,https://bdj.pensoft.net/article/4507/
+123,BDJ,2015,3,Jean-Pierre Rossi,jean-pierre.rossi@supagro.inra.fr,https://bdj.pensoft.net/article/4660/
+124,BDJ,2015,3,Thomas Pape,tpape@snm.ku.dk,https://bdj.pensoft.net/article/4187/
+125,BDJ,2015,3,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/4187/
+126,BDJ,2015,3,Juan M. Daza,jumadaza@gmail.com,https://bdj.pensoft.net/article/1325/
+127,BDJ,2014,2,Sébastien Cally,sebastien.cally@univ-tlse3.fr,https://bdj.pensoft.net/article/4244/
+128,BDJ,2014,2,Jérôme Murienne,jerome.murienne@univ-tlse3.fr,https://bdj.pensoft.net/article/4244/
+129,BDJ,2014,2,Alessandro Minelli,alessandro.minelli@unipd.it,https://bdj.pensoft.net/article/4015/
+130,BDJ,2014,2,Yde de Jong,mail@yjong.net,https://bdj.pensoft.net/article/4015/
+131,BDJ,2014,2,Adriano B. Kury,adrianok@gmail.com,https://bdj.pensoft.net/article/4094/
+132,BDJ,2014,2,Audrey Trochet,audrey.trochet@univ-tlse3.fr,https://bdj.pensoft.net/article/4123/
+133,BDJ,2014,2,David I. Gibson,dig@nhm.ac.uk,https://bdj.pensoft.net/article/1060/
+134,BDJ,2014,2,Robert Evan Mesibov,mesibov@southcom.com.au,https://bdj.pensoft.net/article/1160/
+135,BDJ,2014,2,Quentin John Groom,qgroom@botanicalkeys.co.uk,https://bdj.pensoft.net/article/1108/
+136,BDJ,2014,2,Julissa Roncal,jroncal@mun.ca,https://bdj.pensoft.net/article/1078/
+137,BDJ,2014,2,Gary D Powney,gary.powney@ceh.ac.uk,https://bdj.pensoft.net/article/1041/
+138,BDJ,2014,2,Bonaventure Sonké,bsonke_1999@yahoo.com,https://bdj.pensoft.net/article/1049/
+139,BDJ,2014,2,Sarah Faulwetter,sarifa@hcmr.gr,https://bdj.pensoft.net/article/1024/
+140,BDJ,2013,1,Sarah Faulwetter,sarifa@hcmr.gr,https://bdj.pensoft.net/article/961/
